@@ -18,6 +18,10 @@ https://hive.apache.org/
 
 https://www.cubrid.org/
 
+http://cassandra.apache.org/
+
+http://galeracluster.com/
+
 
 
 
